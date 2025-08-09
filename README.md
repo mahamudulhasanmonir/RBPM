@@ -1,5 +1,5 @@
 ---
-# 📂 RBPM – Role Based Project Management
+# 📂 RPMS – Role Based Project Management System
 
 A **highly modern** and **responsive** project management application built with **React** and **Tailwind CSS**, designed with **role-based access control (RBAC)** for secure and efficient team collaboration.  
 Manage projects, tasks, and teams with a clean, intuitive UI.
